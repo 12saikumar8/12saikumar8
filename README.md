@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saikumar
 - 👀 I’m interested in web development and design.
-- 🌱 I’m currently learning Full stack jvascript web developer Bootcamp.
+- 🌱 I’m currently learning Full stack javascript web developer Bootcamp.
 - 💞️ I’m looking to collaborate on codestudios,...
 - 📫 How to reach me  @saikumar.yalakurthi007@gmail.com
 - 
