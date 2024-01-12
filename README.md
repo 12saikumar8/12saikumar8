@@ -2,7 +2,8 @@
 - I am currently working in TCS as ASE
 - I am working on the Technologies(MYSQL,Python,Pandas,FLASK ,OAS(Oracle Analytics Server),GitHub
 - Also have Hands-on HTML,CSS,JavaScript
-- Also have Knowledge of GCP DevOps (old bio below) 
+- Also have Knowledge of GCP DevOps (old bio below)
+- I am Intersted In Tech Savy
 - 👀 I’m interested in web development and design.
 - 🌱 I’m currently learning Full stack javascript web developer Bootcamp.
 - 💞️ I’m looking to collaborate on codestudios,...
