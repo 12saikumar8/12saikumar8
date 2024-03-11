@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @saikumar
+
+- Currently upsilling with AWS DE BOOTCAMP BY GROW DATA SKILLS
 - I am currently working in TCS as ASE
 - I am working on the Technologies(MYSQL,Python,Pandas,FLASK ,OAS(Oracle Analytics Server),GitHub
 - Also have Hands-on HTML,CSS,JavaScript
