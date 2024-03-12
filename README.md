@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @saikumar
+- 👋 Greetings! I'm Sai Kumar,
+-
+- actively enhancing my skills through the AWS DE Bootcamp by Grow Data Skills.
 
-- Currently upskilling with AWS DE BOOTCAMP BY GROW DATA SKILLS
-- I am currently working in TCS as ASE
-- I am working on the Technologies(MYSQL,Python,Pandas,FLASK ,OAS(Oracle Analytics Server),GitHub
-- Also have Hands-on HTML,CSS,JavaScript
-- Also have Knowledge of GCP DevOps (old bio below)
-- I am Intersted In Tech Savy
-- 👀 I’m interested in web development and design.
-- 🌱 I’m currently learning Full stack javascript web developer Bootcamp.
+Currently employed at TCS as an ASE.
+Proficient in MySQL, Python, Pandas, Flask, OAS (Oracle Analytics Server), and GitHub.
+Additionally, I have hands-on experience with HTML, CSS, and JavaScript.
+Passionate about pursuing opportunities in data engineering and Python development.
+Feel free to reach out to me at saikumar.yalakurthi007@gmail.com.
 - 💞️ I’m looking to collaborate on codestudios,...
 - 📫 How to reach me  @saikumar.yalakurthi007@gmail.com
 - 
