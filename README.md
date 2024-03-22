@@ -1,7 +1,5 @@
 - 👋 Greetings! I'm Sai Kumar,
--
 - actively enhancing my skills through the AWS DE Bootcamp by Grow Data Skills.
-
 - Currently employed at TCS as an ASE.
 - Proficient in MySQL, Python, Pandas, Flask, OAS (Oracle Analytics Server), and GitHub.
 - Additionally, I have hands-on experience with HTML, CSS, and JavaScript.
